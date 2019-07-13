@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      body {
+  font: 10px sans-serif;
+   position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: 1;
+        overflow: hidden;
+
+}
+    </style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Estimated Days Remaining to Resolve Issue </title>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+  </head>
+  <body>
+    <svg width="960" height="500"></svg>
+    <script>
+      const xValue = d => d.days;
+      const yValue = d => d.name;
+      const textValue = d => `${d.name}   ${d.days}  `
+      const verticalSpacing = 70;
+
+      //const width = document.body.clientWidth,
+      //height = document.body.clientHeight;
+
+
+      const svg = d3.select('svg');
+      const width = +svg.attr('width');
+
+      const margin = { left: 220, right: 220, top: 20, bottom: 20 };
+      const innerWidth = width - margin.left - margin.right;
+
+      const xScale = d3.scaleLinear().range([0, innerWidth]);
+      const yScale = d3.scaleBand()
+        .paddingInner(0.1)
+        .paddingOuter(0.05);
+
+      function render(selection, data){
+        data.sort((a, b) => d3.descending(xValue(a), xValue(b)));
+
+        xScale.domain([0, d3.max(data, xValue)]);
+        yScale
+          .domain(data.map(yValue))
+          .range([0, verticalSpacing * data.length]);
+
+        let g = selection.selectAll('g').data([null]);
+        g = g.enter().append('g')
+          .merge(g)
+            .attr('transform', `translate(${margin.left},${margin.top})`);
+
+        const groups = g.selectAll('g')
+          .data(data, yValue);
+        groups.exit().remove();
+        const groupsEnter = groups
+          .enter().append('g')
+            .attr('transform', d => `translate(0,${yScale(yValue(d))})`);
+        groups
+          .merge(groupsEnter)
+          .transition().duration(800)
+            .attr('transform', d => `translate(0,${yScale(yValue(d))})`);
+
+        const rects = groupsEnter
+          .append('rect')
+            .attr('fill', '#3CB371')
+          .merge(groups.select('rect'))
+            .attr('width', d => xScale(xValue(d)))
+            .attr('height', yScale.bandwidth());
+
+        
+
+        const textForeground = groupsEnter
+          .append('text')
+            .attr('class', 'foreground')
+            .style('font-size', '12pt')
+            .style('fill', 'white')
+            .style('font-family', 'Sans-Serif')
+            .attr('x', 5)
+            .attr('dy', '0.32em')
+          .merge(groups.select('.foreground'))
+            .attr('y', yScale.bandwidth() / 2)
+            .text(textValue);
+      }
+
+      d3.json('https://raw.githubusercontent.com/AnuragSinghChaudhary/viz/master/data.json', data => {
+        data.forEach((list, i) => {
+          setTimeout(() => {
+            render(svg, list);
+          }, i * 1000);
+        });
+      });
+    </script>
+  </body>
+</html>

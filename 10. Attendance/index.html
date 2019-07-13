@@ -1,0 +1,134 @@
+<html>
+
+
+
+
+
+<head>
+       <meta charset="UTF-8">
+    <title>Summary Tiles Example</title>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <script type="text/javascript" src="https://d3js.org/d3-selection.v1.min.js"></script>
+        <script src="https://unpkg.com/d3-summary-tiles/build/d3-summary-tiles.min.js"></script>
+</head>
+<style>
+    #target {
+            width: 1200px;
+            display: block;
+            margin-top: 5%;
+            margin-left: auto;
+            margin-right: auto;
+            font-family: "Lato", sans-serif;
+        }
+        
+        #select-container {
+            position: fixed;
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+            margin-left: 115px;
+        }
+
+        svg text {
+          font-family: "Lato", sans-serif;
+        }
+    </style>
+
+<body>
+    <div id="target"></div>
+    <script type="text/javascript">
+    // initialize
+    let summaryTileChart = d3.summaryTiles();
+
+
+  
+
+    axios.get("https://github.com/AnuragSinghChaudhary/viz/blob/master/attendance.json").then(res => drawChart(res));
+   
+//fetch('http://example.com/movies.json').then(res => drawChart(res));
+
+    // axios.get("https://github.com/AnuragSinghChaudhary/viz/blob/master/analysis.json", {
+    //     headers: {
+    //         'Access-Control-Allow-Origin': "*",
+    //     },
+    //     proxy: {
+    //         host: '127.0.0.1',
+    //         port: 8000
+    //     }
+    // }).then(res => drawChart(res));
+
+
+// axios.get("http://github.com/AnuragSinghChaudhary/viz/blob/master/analysis.json", {
+//         headers: {
+//             'Access-Control-Allow-Origin': "*",
+//         },
+//         proxy: {
+//             host: '36.75.99.207',
+//             port: 8000
+//         }
+//     }).then(res => drawChart(res));
+
+  //   timeout: 1000,
+  // headers: {'Access-Control-Allow-Origin': '*'}
+
+
+
+    // axios.get("https://github.com/AnuragSinghChaudhary/viz/blob/master/analysis.json", { crossdomain: true }).then(res => drawChart(res));
+     
+
+
+    function drawChart(res) {
+
+        // create a dropdown for offense categories
+        const offenses = Object.keys(res.data);
+
+        const offensePicker = d3.select("#target")
+            .append("div")
+            .attr("id", "select-container")
+            .append("select");
+
+        offensePicker.selectAll("option")
+            .data(offenses)
+            .enter()
+            .append("option")
+            .text(d => d);
+
+        let selectedOffense = d3.select("select").property("value");
+
+        // set up and draw the first chart
+        summaryTileChart
+            .data(res.data[selectedOffense])
+            .x("hr")
+            .y("dow")
+            .fill("count")
+            .tileWidth(37)
+            .tileHeight(31)
+            .onClick(d => console.log(d))
+            .colorScheme("Plasma") //RdPu
+            .reverseColorScale()
+            .title(`${selectedOffense} Attendance Sheet`)
+           // .legendTitle("Number of Complaints")
+            .xLabel("Day of Month")
+            .horizontalPadding(100)
+            .yLabel("Employee");
+
+        d3.select("#target")
+            .call(summaryTileChart);
+
+        // make updates to chart based on dropdown selection
+        offensePicker.on("change", function() {
+
+            selectedOffense = d3.select(this).property("value");
+
+            summaryTileChart
+                .data(res.data[selectedOffense])
+                .title(`${selectedOffense} Attendance Analysis`);
+
+        });
+
+    }
+    </script>
+</body>
+
+</html>

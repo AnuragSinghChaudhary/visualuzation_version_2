@@ -1,0 +1,35 @@
+body {
+
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+svg {
+    border: 0px solid red;
+
+}
+
+div.tooltip {
+    position: absolute;
+    text-align:  justify;
+    width: auto;
+    height: auto;
+    padding: auto;
+    transition-delay: 1s;
+transition-property: margin-right, color;
+    font: small-caps bold 20px/1 sans-serif;
+    background: #ddd;
+    border: solid 1px #aaa;
+    border-radius: 10px;
+    pointer-events: none;
+}
+
+button{
+        position: center;
+
+}

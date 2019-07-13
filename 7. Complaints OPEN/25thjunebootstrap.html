@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <style>
+    h3 {
+        font: "Helvetica Neue";
+        text-align: center;
+        /* width: element.center; 
+        height: element.center; */
+        margin: 0;
+    }
+
+    #heading {
+        width: 100%;
+        font-size: 100px;
+        text-align: center;
+        margin-bottom: 0px;
+
+    }
+
+    #heading1 {
+        height: 100%;
+        width: 100%;
+        font-size: 100px;
+        text-align: center;
+
+    }
+
+    .fontcolor {
+        color: crimson;
+        text-align: center;
+        font: "Helvetica Neue";
+
+    }
+
+    .fontcolor1 {
+        text-align: center;
+        color: grey;
+        font: "Helvetica Neue";
+
+    }
+
+    div.tooltip {
+        position: absolute;
+        text-align: center;
+        padding: 2px;
+        font: 12px sans-serif;
+        background: lightsteelblue;
+        border: 0px;
+        border-radius: 8px;
+        pointer-events: none;
+    }
+
+    body {
+        font: 10px sans-serif;
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: 1;
+        overflow: hidden;
+
+    }
+
+    text {
+
+        font-family: Georgia;
+        font-size: 60px;
+        fill: crimson;
+    }
+
+    .arc path {
+        stroke: #fff;
+    </style>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js">
+    </script>
+    <title>No of Complaints OPEN</title>
+</head>
+
+<body>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <div class="row">
+        <div class="col">
+            <div id=heading>
+                <script>
+                var format = d3.format(",d");
+
+                d3.select("#heading")
+                    .attr("class", "fontcolor")
+                    .transition()
+                    .duration(10000)
+                    .on("start", function repeat() {
+                        d3.active(this)
+                            .tween("text", function() {
+                                var that = d3.select(this),
+                                    i = d3.interpolateNumber(3, 780);
+                                return function(t) { that.text(format(i(t))); };
+                            })
+                            .transition()
+                            .delay(5000)                            .on("start", repeat);
+
+                    });
+                </script>
+            </div>
+            <h3>No of complaints open</h3>
+            <div>
+                <div id=heading1>
+                    <script>
+                    var format = d3.format(",d");
+
+                    d3.select("#heading1")
+                        .attr("class", "fontcolor1")
+                        .transition()
+                        .duration(10000)
+                        .on("start", function repeat() {
+                            d3.active(this)
+                                .tween("text", function() {
+                                    var that = d3.select(this),
+                                        i = d3.interpolateNumber(0, 3000);
+                                    return function(t) { that.text(format(i(t))); };
+                                })
+                                .transition()
+                                .delay(5000)
+                                .on("start", repeat);
+
+                        });
+                    </script>
+                </div>
+            </div>
+            <div>
+                <h3>Total No of Complaints</h3>
+            </div>
+        </div>
+        <div class="col">
+            <div style="height: inherit; width: inherit;">
+               
+
+               <script>
+
+var height = 300,//document.body.clientHeight,
+    width = 400,//document.body.clientWidth,
+
+
+
+
+
+    τ = 2 * Math.PI; // http://tauday.com/tau-manifesto
+
+// An arc function with all values bound except the endAngle. So, to compute an
+// SVG path string for a given angle, we pass an object with an endAngle
+// property to the `arc` function, and it will return the corresponding string.
+
+
+var arc = d3.arc()
+    .innerRadius(160)
+    .outerRadius(185)
+    .startAngle(0);
+
+// Create the SVG container, and apply a transform such that the origin is the
+// center of the canvas. This way, we don't need to position arcs individually.
+var svg = d3.select("body")
+            .append("svg")
+            .attr("width", width)//ocument.body.clientWidth)
+            .attr("height", height)//document.body.clientHeight)
+            .append("g")
+            .attr("viewBox", "0 0 250 50") //for panning & zooming
+
+            //.attr("transform", "translate(width,height)")
+           //.attr("transform",  'translate(' + width / 2 + ',' + height / 2 + ')')
+
+            .attr("transform", "translate(10,150)")
+
+;
+   // .attr("viewBox", "0 0 1000 50") ;
+  
+var rings = [{id:"crimson", percent: 29}];
+
+var d3Rings = []; 
+  
+var convertPercentToAngle = (percent) => { return ( percent / 100 ) * τ };    
+  
+var createRings = function(){  
+  
+  rings.map(function(ring,index){
+
+        var d3Ring = svg  
+                .append("g")
+                  .attr("transform", "translate(" + width / 2 + "," + ( ( 100 * index ) + 50 ) + ")")
+                  .attr("id",ring.id);
+    // background
+    d3Ring
+    .append("path")
+    .datum({endAngle: τ})
+            .style("stroke", "103px")
+
+    .style("fill", "#ddd")
+    .attr("d", arc); 
+    
+    // foreground
+    var foreground = d3Ring
+    .append("path")
+
+    .datum({endAngle: 0})
+    .style("fill", ring.id)
+        .style("stroke", "103px")
+        .style("stroke-width", "103px")
+        .style("opacity", 1)
+    .attr("d", arc);
+    
+    // text
+    d3Ring
+    .append("text")
+    .attr("x", -22)
+    .attr("y", 8) 
+    .transition()
+    .delay(5500)
+    .text(ring.percent + "%")
+    .attr("class", ring.id);
+        
+    
+    
+    
+    var angle = convertPercentToAngle(ring.percent);
+    
+    foreground
+    .transition()
+      .duration(6500)
+        .delay(50 * index)
+      .call(arcTween, angle);
+    
+    d3Rings.push(d3Ring);
+  
+  });  
+}
+
+createRings();
+
+function arcTween(transition, newAngle) {
+
+  transition.attrTween("d", function(d) {  
+  var interpolate = d3.interpolate(d.endAngle, newAngle);
+
+    return function(t) {
+      d.endAngle = interpolate(t);
+      return arc(d);
+    };
+  });
+}
+
+</script>
+
+
+
+            
+        </div>
+    </div>
+</body>
+
+</html>

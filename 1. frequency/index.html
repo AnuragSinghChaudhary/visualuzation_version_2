@@ -1,0 +1,39 @@
+<!doctype html>
+<head>
+<meta charset="utf-8">
+<head>
+<body>
+<div id="viz"></div>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3plus/1.9.8/d3plus.full.js"></script>
+<script>
+  function type(d) {
+    var row = {
+      'time of day': +d.time,
+      'complaints rate': +d.complaints_rate,
+      day: d.day,
+      'NO OF COMPLAINTS': +d.complaints
+    };
+    return row;
+  }
+
+d3.csv("https://raw.githubusercontent.com/AnuragSinghChaudhary/viz/master/complaints_frequency.csv", type, function(error, data) {
+  if (error) {
+    throw error;
+  }
+
+  var visualization = d3plus.viz()
+    .container('#viz')  // container DIV to hold the visualization
+    .data(data)  // data to use with the visualization
+    .type('scatter') // visualization type
+    .id('day')  // key for which our data is unique on
+    .x('NO OF COMPLAINTS') // key for x-axis
+    .y('time of day') // key for y-axis
+    .size('complaints rate')
+    //.duration(100) 
+    .draw()
+
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+  path.domain {
+    display: none;
+  }
+
+  body{
+
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: 0;
+    overflow: hidden;
+}
+  .label {
+    font-size: 10px;
+    font-family: sans-serif;
+    text-anchor: middle;
+  }
+</style>
+
+<body>
+      
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script>
+
+    var height = document.body.clientHeight; 
+    
+    var width = document.body.clientWidth;
+
+
+    var margin = {top: 100, right: 40, bottom: 50, left: 40},
+      width = width - margin.left - margin.right,
+      height = height - margin.top - margin.bottom;
+
+    
+    var overlap = 15;
+
+    var x = d3.scaleBand()
+              .range([0, width])
+              .padding(0.1);
+    var y = d3.scaleLinear()
+              .range([height, 0]);
+              
+    var svg = d3.select("body").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", 
+              "translate(" + margin.left + "," + margin.top + ")");
+
+    d3.csv("https://raw.githubusercontent.com/AnuragSinghChaudhary/viz/master/complaints_by_months.csv", function(error, data) {
+      if (error) throw error;
+
+      data.forEach(function(d) {
+        d.number = +d.number;
+      });
+
+      x.domain(data.map(function(d) { return d.month; }));
+      y.domain([0, d3.max(data, function(d) { return d.number; })]);
+
+      svg.selectAll(".bar")
+          .data(data)
+        .enter()
+          .append("polygon")
+
+          .transition()
+          .duration(5000)
+
+
+          .attr("points",function(d) {
+              var left = x(d.month) - overlap;
+              var top = y(d.number);
+              var bottom = height;
+
+              return left + ',' + bottom + ' '
+                 + (left + (x.bandwidth()/2) + overlap) + ',' + top + ' '
+                 + (left + x.bandwidth() + (2 * overlap)) + ',' + bottom;
+          })
+         // .attr("fill","#D7C38A")
+          .style("fill", function(d){
+          if(d.number > 11){
+            return "crimson"
+          }  else { 
+            return "grey" }
+        })
+          .style("opacity",".5");
+
+      svg.selectAll(".num-storms")
+          .data(data)
+          .enter()
+          .append("text")
+          .transition()
+          .duration(4000)
+          .attr("class","num-storms label")
+          .text(function(d){
+            return (d.number + 'K Complaints');
+          })
+          .attr("x", function(d, i) {
+            return i * (width / data.length) + (x.bandwidth()/2) + 5;
+         })
+         .attr("y", function(d) {
+            return y(d.number) - 20;   
+         });
+
+      svg.selectAll(".damage")
+          .data(data)
+          .enter()
+          .append("text")
+          .attr("class","damage label")
+          // .text(function(d){
+          //   return ('$' + d.damage + 'K');
+          // })
+          .attr("x", function(d, i) {
+            return i * (width / data.length) + (x.bandwidth()/2) + 5;
+         })
+         .attr("y", function(d) {
+            return y(d.number) - 10;   
+         });
+
+      svg.append("g")
+          .attr("transform", "translate(-7.5," + height + ")")
+          .call(d3.axisBottom(x));
+
+      svg.append("line")
+          .attr("x1", 0  - overlap)
+          .attr("y1", height)
+          .attr("x2", width  + overlap)
+          .attr("y2", height)
+          .attr("stroke", "burlywood")
+          .attr("stroke-width", "3");
+
+    });
+
+  </script>
+</body>
+</html>

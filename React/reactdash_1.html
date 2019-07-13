@@ -1,0 +1,123 @@
+
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <style>
+    h2 {
+        font: "Helvetica Neue";
+        text-align: center;
+        /* width: element.center; 
+        height: element.center; */
+        margin: 0;
+    }
+
+    #heading {
+        width: 100%;
+        font-size: 100px;
+        text-align: center;
+        margin-bottom: 0px;
+
+    }
+
+    #heading1 {
+        height: 100%;
+        width: 100%;
+        font-size: 100px;
+        text-align: center;
+
+    }
+
+    .fontcolor {
+        color: crimson;
+        text-align: center;
+        font: "Helvetica Neue";
+
+    }
+
+    .fontcolor1 {
+        text-align: center;
+        color: grey;
+        font: "Helvetica Neue";
+
+    }
+
+    div.tooltip {
+        position: absolute;
+        text-align: center;
+        padding: 2px;
+        font: 12px sans-serif;
+        background: lightsteelblue;
+        border: 0px;
+        border-radius: 8px;
+        pointer-events: none;
+    }
+
+    body {
+        font: 10px sans-serif;
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: 1;
+        overflow: hidden;
+
+    }
+
+    text {
+
+        font-family: Georgia;
+        font-size: 60px;
+        fill: crimson;
+    }
+
+    .arc path {
+        stroke: #fff;
+    </style>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js">
+    </script>
+    <title>No of Complaints OPEN</title>
+</head>
+<body>
+   
+    <div class="row">
+        <div class="col">
+            <div id=heading>
+                <script>
+                var format = d3.format(",d");
+
+                var end_value = 780;
+
+                d3.select("#heading")
+                    .attr("class", "fontcolor")
+                    .transition()
+                    .duration(10000)
+                    .on("start", function repeat() {
+                        d3.active(this)
+                            .tween("text", function() {
+                                var that = d3.select(this),
+                                    i = d3.interpolateNumber(0, end_value);
+                                return function(t) { that.text(format(i(t))); };
+                            })
+                            .transition()
+                            .delay(5000)                            .on("start", repeat);
+
+                    });
+                </script>
+            </div>
+            <h2>No of complaints open</h2>
+            <div>
+              
+            </div>
+        </div>
+       
+</body>
+
+</html>

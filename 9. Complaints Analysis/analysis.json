@@ -1,0 +1,7065 @@
+{
+    "Pothole": [
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "6 am",
+        "count": 197
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "7 am",
+        "count": 524
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "8 am",
+        "count": 836
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "9 am",
+        "count": 950
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "10 am",
+        "count": 1072
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "11 am",
+        "count": 1058
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "12 pm",
+        "count": 934
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "1 pm",
+        "count": 1054
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "2 pm",
+        "count": 958
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "3 pm",
+        "count": 909
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "4 pm",
+        "count": 848
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "5 pm",
+        "count": 751
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "6 pm",
+        "count": 697
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "7 pm",
+        "count": 524
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "8 pm",
+        "count": 447
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "9 pm",
+        "count": 412
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "10 pm",
+        "count": 281
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "11 pm",
+        "count": 217
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "12 am",
+        "count": 174
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "1 am",
+        "count": 146
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "2 am",
+        "count": 138
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "3 am",
+        "count": 92
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "4 am",
+        "count": 62
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Monday",
+        "hr": "5 am",
+        "count": 93
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "6 am",
+        "count": 167
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "7 am",
+        "count": 444
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "8 am",
+        "count": 703
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "9 am",
+        "count": 810
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "10 am",
+        "count": 857
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "11 am",
+        "count": 908
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "12 pm",
+        "count": 878
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "1 pm",
+        "count": 912
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "2 pm",
+        "count": 868
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "3 pm",
+        "count": 869
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "4 pm",
+        "count": 808
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "5 pm",
+        "count": 696
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "6 pm",
+        "count": 583
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "7 pm",
+        "count": 570
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "8 pm",
+        "count": 468
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "9 pm",
+        "count": 366
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "10 pm",
+        "count": 299
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "11 pm",
+        "count": 221
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "12 am",
+        "count": 168
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "1 am",
+        "count": 118
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "2 am",
+        "count": 113
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "3 am",
+        "count": 83
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "4 am",
+        "count": 70
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Tuesday",
+        "hr": "5 am",
+        "count": 94
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "6 am",
+        "count": 185
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "7 am",
+        "count": 442
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "8 am",
+        "count": 684
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "9 am",
+        "count": 742
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "10 am",
+        "count": 775
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "11 am",
+        "count": 863
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "12 pm",
+        "count": 890
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "1 pm",
+        "count": 859
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "2 pm",
+        "count": 865
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "3 pm",
+        "count": 877
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "4 pm",
+        "count": 813
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "5 pm",
+        "count": 653
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "6 pm",
+        "count": 601
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "7 pm",
+        "count": 503
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "8 pm",
+        "count": 430
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "9 pm",
+        "count": 364
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "10 pm",
+        "count": 261
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "11 pm",
+        "count": 188
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "12 am",
+        "count": 157
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "1 am",
+        "count": 123
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "2 am",
+        "count": 130
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "3 am",
+        "count": 80
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "4 am",
+        "count": 77
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Wednesday",
+        "hr": "5 am",
+        "count": 94
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "6 am",
+        "count": 178
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "7 am",
+        "count": 396
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "8 am",
+        "count": 652
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "9 am",
+        "count": 804
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "10 am",
+        "count": 765
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "11 am",
+        "count": 860
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "12 pm",
+        "count": 811
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "1 pm",
+        "count": 908
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "2 pm",
+        "count": 837
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "3 pm",
+        "count": 863
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "4 pm",
+        "count": 777
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "5 pm",
+        "count": 692
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "6 pm",
+        "count": 566
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "7 pm",
+        "count": 523
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "8 pm",
+        "count": 435
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "9 pm",
+        "count": 358
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "10 pm",
+        "count": 246
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "11 pm",
+        "count": 195
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "12 am",
+        "count": 178
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "1 am",
+        "count": 152
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "2 am",
+        "count": 136
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "3 am",
+        "count": 89
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "4 am",
+        "count": 82
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Thursday",
+        "hr": "5 am",
+        "count": 97
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "6 am",
+        "count": 179
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "7 am",
+        "count": 390
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "8 am",
+        "count": 617
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "9 am",
+        "count": 744
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "10 am",
+        "count": 723
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "11 am",
+        "count": 815
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "12 pm",
+        "count": 803
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "1 pm",
+        "count": 844
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "2 pm",
+        "count": 834
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "3 pm",
+        "count": 863
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "4 pm",
+        "count": 766
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "5 pm",
+        "count": 725
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "6 pm",
+        "count": 584
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "7 pm",
+        "count": 479
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "8 pm",
+        "count": 486
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "9 pm",
+        "count": 372
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "10 pm",
+        "count": 318
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "11 pm",
+        "count": 253
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "12 am",
+        "count": 166
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "1 am",
+        "count": 162
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "2 am",
+        "count": 134
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "3 am",
+        "count": 130
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "4 am",
+        "count": 78
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Friday",
+        "hr": "5 am",
+        "count": 82
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "6 am",
+        "count": 114
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "7 am",
+        "count": 206
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "8 am",
+        "count": 319
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "9 am",
+        "count": 397
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "10 am",
+        "count": 511
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "11 am",
+        "count": 584
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "12 pm",
+        "count": 579
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "1 pm",
+        "count": 622
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "2 pm",
+        "count": 632
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "3 pm",
+        "count": 613
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "4 pm",
+        "count": 663
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "5 pm",
+        "count": 622
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "6 pm",
+        "count": 603
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "7 pm",
+        "count": 521
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "8 pm",
+        "count": 462
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "9 pm",
+        "count": 407
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "10 pm",
+        "count": 302
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "11 pm",
+        "count": 242
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "12 am",
+        "count": 169
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "1 am",
+        "count": 197
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "2 am",
+        "count": 197
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "3 am",
+        "count": 178
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "4 am",
+        "count": 110
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Saturday",
+        "hr": "5 am",
+        "count": 91
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "6 am",
+        "count": 98
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "7 am",
+        "count": 184
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "8 am",
+        "count": 278
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "9 am",
+        "count": 380
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "10 am",
+        "count": 474
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "11 am",
+        "count": 510
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "12 pm",
+        "count": 540
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "1 pm",
+        "count": 553
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "2 pm",
+        "count": 567
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "3 pm",
+        "count": 566
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "4 pm",
+        "count": 586
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "5 pm",
+        "count": 567
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "6 pm",
+        "count": 525
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "7 pm",
+        "count": 516
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "8 pm",
+        "count": 383
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "9 pm",
+        "count": 338
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "10 pm",
+        "count": 301
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "11 pm",
+        "count": 190
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "12 am",
+        "count": 209
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "1 am",
+        "count": 196
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "2 am",
+        "count": 214
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "3 am",
+        "count": 179
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "4 am",
+        "count": 101
+    },
+    {
+        "complaint_category": "Pothole",
+        "dow": "Sunday",
+        "hr": "5 am",
+        "count": 99
+    }],
+    "Billing": [
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "6 am",
+        "count": 98
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "7 am",
+        "count": 212
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "8 am",
+        "count": 273
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "9 am",
+        "count": 275
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "10 am",
+        "count": 272
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "11 am",
+        "count": 270
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "12 pm",
+        "count": 307
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "1 pm",
+        "count": 243
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "2 pm",
+        "count": 245
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "3 pm",
+        "count": 262
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "4 pm",
+        "count": 256
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "5 pm",
+        "count": 256
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "6 pm",
+        "count": 259
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "7 pm",
+        "count": 182
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "8 pm",
+        "count": 151
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "9 pm",
+        "count": 130
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "10 pm",
+        "count": 140
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "11 pm",
+        "count": 109
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "12 am",
+        "count": 87
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "1 am",
+        "count": 62
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "2 am",
+        "count": 57
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "3 am",
+        "count": 52
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "4 am",
+        "count": 52
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Monday",
+        "hr": "5 am",
+        "count": 42
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "6 am",
+        "count": 77
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "7 am",
+        "count": 122
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "8 am",
+        "count": 155
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "9 am",
+        "count": 185
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "10 am",
+        "count": 233
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "11 am",
+        "count": 222
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "12 pm",
+        "count": 244
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "1 pm",
+        "count": 234
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "2 pm",
+        "count": 248
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "3 pm",
+        "count": 284
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "4 pm",
+        "count": 249
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "5 pm",
+        "count": 254
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "6 pm",
+        "count": 244
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "7 pm",
+        "count": 190
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "8 pm",
+        "count": 160
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "9 pm",
+        "count": 157
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "10 pm",
+        "count": 145
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "11 pm",
+        "count": 109
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "12 am",
+        "count": 68
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "1 am",
+        "count": 59
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "2 am",
+        "count": 59
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "3 am",
+        "count": 47
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "4 am",
+        "count": 46
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Tuesday",
+        "hr": "5 am",
+        "count": 53
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "6 am",
+        "count": 53
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "7 am",
+        "count": 127
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "8 am",
+        "count": 197
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "9 am",
+        "count": 197
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "10 am",
+        "count": 236
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "11 am",
+        "count": 222
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "12 pm",
+        "count": 213
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "1 pm",
+        "count": 272
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "2 pm",
+        "count": 243
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "3 pm",
+        "count": 241
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "4 pm",
+        "count": 223
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "5 pm",
+        "count": 237
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "6 pm",
+        "count": 202
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "7 pm",
+        "count": 184
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "8 pm",
+        "count": 147
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "9 pm",
+        "count": 171
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "10 pm",
+        "count": 142
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "11 pm",
+        "count": 105
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "12 am",
+        "count": 87
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "1 am",
+        "count": 53
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "2 am",
+        "count": 61
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "3 am",
+        "count": 60
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "4 am",
+        "count": 58
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Wednesday",
+        "hr": "5 am",
+        "count": 49
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "6 am",
+        "count": 56
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "7 am",
+        "count": 112
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "8 am",
+        "count": 166
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "9 am",
+        "count": 189
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "10 am",
+        "count": 221
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "11 am",
+        "count": 206
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "12 pm",
+        "count": 221
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "1 pm",
+        "count": 248
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "2 pm",
+        "count": 227
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "3 pm",
+        "count": 234
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "4 pm",
+        "count": 248
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "5 pm",
+        "count": 270
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "6 pm",
+        "count": 206
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "7 pm",
+        "count": 176
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "8 pm",
+        "count": 128
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "9 pm",
+        "count": 157
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "10 pm",
+        "count": 143
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "11 pm",
+        "count": 95
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "12 am",
+        "count": 76
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "1 am",
+        "count": 58
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "2 am",
+        "count": 68
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "3 am",
+        "count": 54
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "4 am",
+        "count": 59
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Thursday",
+        "hr": "5 am",
+        "count": 45
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "6 am",
+        "count": 57
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "7 am",
+        "count": 124
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "8 am",
+        "count": 188
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "9 am",
+        "count": 204
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "10 am",
+        "count": 205
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "11 am",
+        "count": 198
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "12 pm",
+        "count": 215
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "1 pm",
+        "count": 200
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "2 pm",
+        "count": 237
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "3 pm",
+        "count": 225
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "4 pm",
+        "count": 211
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "5 pm",
+        "count": 210
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "6 pm",
+        "count": 203
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "7 pm",
+        "count": 154
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "8 pm",
+        "count": 149
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "9 pm",
+        "count": 142
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "10 pm",
+        "count": 146
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "11 pm",
+        "count": 134
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "12 am",
+        "count": 90
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "1 am",
+        "count": 81
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "2 am",
+        "count": 61
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "3 am",
+        "count": 52
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "4 am",
+        "count": 50
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Friday",
+        "hr": "5 am",
+        "count": 42
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "6 am",
+        "count": 43
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "7 am",
+        "count": 71
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "8 am",
+        "count": 117
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "9 am",
+        "count": 123
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "10 am",
+        "count": 142
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "11 am",
+        "count": 127
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "12 pm",
+        "count": 131
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "1 pm",
+        "count": 131
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "2 pm",
+        "count": 130
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "3 pm",
+        "count": 146
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "4 pm",
+        "count": 115
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "5 pm",
+        "count": 116
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "6 pm",
+        "count": 133
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "7 pm",
+        "count": 128
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "8 pm",
+        "count": 118
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "9 pm",
+        "count": 104
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "10 pm",
+        "count": 142
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "11 pm",
+        "count": 112
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "12 am",
+        "count": 107
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "1 am",
+        "count": 86
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "2 am",
+        "count": 92
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "3 am",
+        "count": 55
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "4 am",
+        "count": 57
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Saturday",
+        "hr": "5 am",
+        "count": 46
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "6 am",
+        "count": 41
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "7 am",
+        "count": 59
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "8 am",
+        "count": 92
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "9 am",
+        "count": 112
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "10 am",
+        "count": 130
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "11 am",
+        "count": 131
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "12 pm",
+        "count": 142
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "1 pm",
+        "count": 146
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "2 pm",
+        "count": 157
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "3 pm",
+        "count": 122
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "4 pm",
+        "count": 133
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "5 pm",
+        "count": 140
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "6 pm",
+        "count": 113
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "7 pm",
+        "count": 126
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "8 pm",
+        "count": 114
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "9 pm",
+        "count": 138
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "10 pm",
+        "count": 138
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "11 pm",
+        "count": 100
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "12 am",
+        "count": 101
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "1 am",
+        "count": 95
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "2 am",
+        "count": 63
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "3 am",
+        "count": 58
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "4 am",
+        "count": 43
+    },
+    {
+        "complaint_category": "Billing",
+        "dow": "Sunday",
+        "hr": "5 am",
+        "count": 40
+    }],
+    "Sewage": [
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "6 am",
+        "count": 13
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "7 am",
+        "count": 12
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "8 am",
+        "count": 15
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "9 am",
+        "count": 21
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "10 am",
+        "count": 42
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "11 am",
+        "count": 48
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "12 pm",
+        "count": 70
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "1 pm",
+        "count": 48
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "2 pm",
+        "count": 72
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "3 pm",
+        "count": 72
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "4 pm",
+        "count": 70
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "5 pm",
+        "count": 60
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "6 pm",
+        "count": 100
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "7 pm",
+        "count": 125
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "8 pm",
+        "count": 117
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "9 pm",
+        "count": 134
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "10 pm",
+        "count": 128
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "11 pm",
+        "count": 181
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "12 am",
+        "count": 156
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "1 am",
+        "count": 129
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "2 am",
+        "count": 112
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "3 am",
+        "count": 78
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "4 am",
+        "count": 32
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Monday",
+        "hr": "5 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "6 am",
+        "count": 20
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "7 am",
+        "count": 32
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "8 am",
+        "count": 28
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "9 am",
+        "count": 32
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "10 am",
+        "count": 55
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "11 am",
+        "count": 68
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "12 pm",
+        "count": 70
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "1 pm",
+        "count": 80
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "2 pm",
+        "count": 143
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "3 pm",
+        "count": 158
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "4 pm",
+        "count": 204
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "5 pm",
+        "count": 164
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "6 pm",
+        "count": 209
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "7 pm",
+        "count": 262
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "8 pm",
+        "count": 237
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "9 pm",
+        "count": 208
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "10 pm",
+        "count": 235
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "11 pm",
+        "count": 194
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "12 am",
+        "count": 172
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "1 am",
+        "count": 165
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "2 am",
+        "count": 117
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "3 am",
+        "count": 87
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "4 am",
+        "count": 40
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Tuesday",
+        "hr": "5 am",
+        "count": 24
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "6 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "7 am",
+        "count": 21
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "8 am",
+        "count": 33
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "9 am",
+        "count": 39
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "10 am",
+        "count": 53
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "11 am",
+        "count": 80
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "12 pm",
+        "count": 124
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "1 pm",
+        "count": 113
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "2 pm",
+        "count": 154
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "3 pm",
+        "count": 211
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "4 pm",
+        "count": 192
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "5 pm",
+        "count": 212
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "6 pm",
+        "count": 279
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "7 pm",
+        "count": 257
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "8 pm",
+        "count": 274
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "9 pm",
+        "count": 277
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "10 pm",
+        "count": 250
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "11 pm",
+        "count": 260
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "12 am",
+        "count": 236
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "1 am",
+        "count": 156
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "2 am",
+        "count": 118
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "3 am",
+        "count": 79
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "4 am",
+        "count": 46
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Wednesday",
+        "hr": "5 am",
+        "count": 18
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "6 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "7 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "8 am",
+        "count": 24
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "9 am",
+        "count": 51
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "10 am",
+        "count": 65
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "11 am",
+        "count": 91
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "12 pm",
+        "count": 81
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "1 pm",
+        "count": 91
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "2 pm",
+        "count": 137
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "3 pm",
+        "count": 180
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "4 pm",
+        "count": 215
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "5 pm",
+        "count": 180
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "6 pm",
+        "count": 201
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "7 pm",
+        "count": 254
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "8 pm",
+        "count": 243
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "9 pm",
+        "count": 199
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "10 pm",
+        "count": 231
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "11 pm",
+        "count": 219
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "12 am",
+        "count": 225
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "1 am",
+        "count": 144
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "2 am",
+        "count": 142
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "3 am",
+        "count": 89
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "4 am",
+        "count": 40
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Thursday",
+        "hr": "5 am",
+        "count": 25
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "6 am",
+        "count": 16
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "7 am",
+        "count": 19
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "8 am",
+        "count": 27
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "9 am",
+        "count": 40
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "10 am",
+        "count": 52
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "11 am",
+        "count": 56
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "12 pm",
+        "count": 73
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "1 pm",
+        "count": 92
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "2 pm",
+        "count": 131
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "3 pm",
+        "count": 133
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "4 pm",
+        "count": 124
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "5 pm",
+        "count": 144
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "6 pm",
+        "count": 182
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "7 pm",
+        "count": 233
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "8 pm",
+        "count": 218
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "9 pm",
+        "count": 246
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "10 pm",
+        "count": 266
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "11 pm",
+        "count": 254
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "12 am",
+        "count": 233
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "1 am",
+        "count": 145
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "2 am",
+        "count": 99
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "3 am",
+        "count": 80
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "4 am",
+        "count": 37
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Friday",
+        "hr": "5 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "6 am",
+        "count": 39
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "7 am",
+        "count": 33
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "8 am",
+        "count": 37
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "9 am",
+        "count": 32
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "10 am",
+        "count": 36
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "11 am",
+        "count": 41
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "12 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "1 pm",
+        "count": 37
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "2 pm",
+        "count": 50
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "3 pm",
+        "count": 32
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "4 pm",
+        "count": 49
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "5 pm",
+        "count": 54
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "6 pm",
+        "count": 108
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "7 pm",
+        "count": 134
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "8 pm",
+        "count": 105
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "9 pm",
+        "count": 179
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "10 pm",
+        "count": 195
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "11 pm",
+        "count": 185
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "12 am",
+        "count": 264
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "1 am",
+        "count": 246
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "2 am",
+        "count": 182
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "3 am",
+        "count": 114
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "4 am",
+        "count": 58
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Saturday",
+        "hr": "5 am",
+        "count": 36
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "6 am",
+        "count": 26
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "7 am",
+        "count": 13
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "8 am",
+        "count": 17
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "9 am",
+        "count": 27
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "10 am",
+        "count": 28
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "11 am",
+        "count": 30
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "12 pm",
+        "count": 23
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "1 pm",
+        "count": 32
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "2 pm",
+        "count": 23
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "3 pm",
+        "count": 36
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "4 pm",
+        "count": 31
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "5 pm",
+        "count": 48
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "6 pm",
+        "count": 77
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "7 pm",
+        "count": 81
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "8 pm",
+        "count": 88
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "9 pm",
+        "count": 113
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "10 pm",
+        "count": 123
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "11 pm",
+        "count": 159
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "12 am",
+        "count": 215
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "1 am",
+        "count": 160
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "2 am",
+        "count": 119
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "3 am",
+        "count": 87
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "4 am",
+        "count": 63
+    },
+    {
+        "complaint_category": "Sewage",
+        "dow": "Sunday",
+        "hr": "5 am",
+        "count": 44
+    }],
+    "Water": [
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "6 am",
+        "count": 21
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "7 am",
+        "count": 35
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "8 am",
+        "count": 52
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "9 am",
+        "count": 78
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "10 am",
+        "count": 64
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "11 am",
+        "count": 108
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "12 pm",
+        "count": 99
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "1 pm",
+        "count": 91
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "2 pm",
+        "count": 126
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "3 pm",
+        "count": 124
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "4 pm",
+        "count": 137
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "5 pm",
+        "count": 134
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "6 pm",
+        "count": 142
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "7 pm",
+        "count": 122
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "8 pm",
+        "count": 116
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "9 pm",
+        "count": 136
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "10 pm",
+        "count": 124
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "11 pm",
+        "count": 96
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "12 am",
+        "count": 105
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "1 am",
+        "count": 116
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "2 am",
+        "count": 186
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "3 am",
+        "count": 80
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "4 am",
+        "count": 29
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Monday",
+        "hr": "5 am",
+        "count": 25
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "6 am",
+        "count": 26
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "7 am",
+        "count": 29
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "8 am",
+        "count": 56
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "9 am",
+        "count": 76
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "10 am",
+        "count": 78
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "11 am",
+        "count": 72
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "12 pm",
+        "count": 101
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "1 pm",
+        "count": 106
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "2 pm",
+        "count": 116
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "3 pm",
+        "count": 124
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "4 pm",
+        "count": 118
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "5 pm",
+        "count": 119
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "6 pm",
+        "count": 121
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "7 pm",
+        "count": 123
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "8 pm",
+        "count": 122
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "9 pm",
+        "count": 112
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "10 pm",
+        "count": 104
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "11 pm",
+        "count": 97
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "12 am",
+        "count": 86
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "1 am",
+        "count": 77
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "2 am",
+        "count": 72
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "3 am",
+        "count": 52
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "4 am",
+        "count": 27
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Tuesday",
+        "hr": "5 am",
+        "count": 27
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "6 am",
+        "count": 20
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "7 am",
+        "count": 36
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "8 am",
+        "count": 57
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "9 am",
+        "count": 75
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "10 am",
+        "count": 90
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "11 am",
+        "count": 80
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "12 pm",
+        "count": 92
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "1 pm",
+        "count": 106
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "2 pm",
+        "count": 124
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "3 pm",
+        "count": 137
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "4 pm",
+        "count": 133
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "5 pm",
+        "count": 124
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "6 pm",
+        "count": 120
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "7 pm",
+        "count": 133
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "8 pm",
+        "count": 123
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "9 pm",
+        "count": 105
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "10 pm",
+        "count": 119
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "11 pm",
+        "count": 101
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "12 am",
+        "count": 100
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "1 am",
+        "count": 118
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "2 am",
+        "count": 176
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "3 am",
+        "count": 58
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "4 am",
+        "count": 31
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Wednesday",
+        "hr": "5 am",
+        "count": 20
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "6 am",
+        "count": 30
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "7 am",
+        "count": 39
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "8 am",
+        "count": 59
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "9 am",
+        "count": 57
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "10 am",
+        "count": 84
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "11 am",
+        "count": 66
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "12 pm",
+        "count": 96
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "1 pm",
+        "count": 90
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "2 pm",
+        "count": 101
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "3 pm",
+        "count": 123
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "4 pm",
+        "count": 129
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "5 pm",
+        "count": 107
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "6 pm",
+        "count": 115
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "7 pm",
+        "count": 113
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "8 pm",
+        "count": 127
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "9 pm",
+        "count": 111
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "10 pm",
+        "count": 89
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "11 pm",
+        "count": 123
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "12 am",
+        "count": 92
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "1 am",
+        "count": 118
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "2 am",
+        "count": 177
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "3 am",
+        "count": 76
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "4 am",
+        "count": 33
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Thursday",
+        "hr": "5 am",
+        "count": 24
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "6 am",
+        "count": 27
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "7 am",
+        "count": 39
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "8 am",
+        "count": 62
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "9 am",
+        "count": 90
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "10 am",
+        "count": 81
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "11 am",
+        "count": 92
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "12 pm",
+        "count": 99
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "1 pm",
+        "count": 108
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "2 pm",
+        "count": 109
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "3 pm",
+        "count": 122
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "4 pm",
+        "count": 122
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "5 pm",
+        "count": 141
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "6 pm",
+        "count": 118
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "7 pm",
+        "count": 139
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "8 pm",
+        "count": 127
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "9 pm",
+        "count": 109
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "10 pm",
+        "count": 154
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "11 pm",
+        "count": 134
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "12 am",
+        "count": 113
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "1 am",
+        "count": 143
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "2 am",
+        "count": 207
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "3 am",
+        "count": 100
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "4 am",
+        "count": 38
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Friday",
+        "hr": "5 am",
+        "count": 26
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "6 am",
+        "count": 32
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "7 am",
+        "count": 24
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "8 am",
+        "count": 32
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "9 am",
+        "count": 39
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "10 am",
+        "count": 67
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "11 am",
+        "count": 82
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "12 pm",
+        "count": 79
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "1 pm",
+        "count": 87
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "2 pm",
+        "count": 88
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "3 pm",
+        "count": 118
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "4 pm",
+        "count": 94
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "5 pm",
+        "count": 104
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "6 pm",
+        "count": 119
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "7 pm",
+        "count": 137
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "8 pm",
+        "count": 152
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "9 pm",
+        "count": 159
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "10 pm",
+        "count": 165
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "11 pm",
+        "count": 172
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "12 am",
+        "count": 207
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "1 am",
+        "count": 248
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "2 am",
+        "count": 405
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "3 am",
+        "count": 186
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "4 am",
+        "count": 72
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Saturday",
+        "hr": "5 am",
+        "count": 44
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "6 am",
+        "count": 32
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "7 am",
+        "count": 28
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "8 am",
+        "count": 31
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "9 am",
+        "count": 32
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "10 am",
+        "count": 46
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "11 am",
+        "count": 60
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "12 pm",
+        "count": 60
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "1 pm",
+        "count": 75
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "2 pm",
+        "count": 78
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "3 pm",
+        "count": 85
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "4 pm",
+        "count": 107
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "5 pm",
+        "count": 105
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "6 pm",
+        "count": 146
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "7 pm",
+        "count": 144
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "8 pm",
+        "count": 128
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "9 pm",
+        "count": 132
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "10 pm",
+        "count": 104
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "11 pm",
+        "count": 126
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "12 am",
+        "count": 196
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "1 am",
+        "count": 307
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "2 am",
+        "count": 431
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "3 am",
+        "count": 204
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "4 am",
+        "count": 72
+    },
+    {
+        "complaint_category": "Water",
+        "dow": "Sunday",
+        "hr": "5 am",
+        "count": 41
+    }],
+    "Drainage": [
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "6 am",
+        "count": 5
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "7 am",
+        "count": 15
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "8 am",
+        "count": 94
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "9 am",
+        "count": 156
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "10 am",
+        "count": 211
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "11 am",
+        "count": 228
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "12 pm",
+        "count": 192
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "1 pm",
+        "count": 174
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "2 pm",
+        "count": 214
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "3 pm",
+        "count": 178
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "4 pm",
+        "count": 149
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "5 pm",
+        "count": 69
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "6 pm",
+        "count": 64
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "7 pm",
+        "count": 34
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "8 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "9 pm",
+        "count": 31
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "10 pm",
+        "count": 24
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "11 pm",
+        "count": 12
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "12 am",
+        "count": 11
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "1 am",
+        "count": 7
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "2 am",
+        "count": 6
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "3 am",
+        "count": 4
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "4 am",
+        "count": 5
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Monday",
+        "hr": "5 am",
+        "count": 2
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "6 am",
+        "count": 3
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "7 am",
+        "count": 13
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "8 am",
+        "count": 93
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "9 am",
+        "count": 172
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "10 am",
+        "count": 211
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "11 am",
+        "count": 214
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "12 pm",
+        "count": 184
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "1 pm",
+        "count": 204
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "2 pm",
+        "count": 208
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "3 pm",
+        "count": 218
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "4 pm",
+        "count": 146
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "5 pm",
+        "count": 82
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "6 pm",
+        "count": 66
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "7 pm",
+        "count": 49
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "8 pm",
+        "count": 30
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "9 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "10 pm",
+        "count": 18
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "11 pm",
+        "count": 20
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "12 am",
+        "count": 5
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "1 am",
+        "count": 7
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "2 am",
+        "count": 6
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "3 am",
+        "count": 3
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "4 am",
+        "count": 2
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Tuesday",
+        "hr": "5 am",
+        "count": 4
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "6 am",
+        "count": 7
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "7 am",
+        "count": 21
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "8 am",
+        "count": 80
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "9 am",
+        "count": 166
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "10 am",
+        "count": 215
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "11 am",
+        "count": 195
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "12 pm",
+        "count": 182
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "1 pm",
+        "count": 192
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "2 pm",
+        "count": 208
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "3 pm",
+        "count": 181
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "4 pm",
+        "count": 151
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "5 pm",
+        "count": 81
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "6 pm",
+        "count": 57
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "7 pm",
+        "count": 37
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "8 pm",
+        "count": 31
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "9 pm",
+        "count": 35
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "10 pm",
+        "count": 18
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "11 pm",
+        "count": 17
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "12 am",
+        "count": 9
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "1 am",
+        "count": 8
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "2 am",
+        "count": 7
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "3 am",
+        "count": 4
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "4 am",
+        "count": 0
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Wednesday",
+        "hr": "5 am",
+        "count": 2
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "6 am",
+        "count": 4
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "7 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "8 am",
+        "count": 65
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "9 am",
+        "count": 170
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "10 am",
+        "count": 209
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "11 am",
+        "count": 197
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "12 pm",
+        "count": 183
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "1 pm",
+        "count": 220
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "2 pm",
+        "count": 169
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "3 pm",
+        "count": 189
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "4 pm",
+        "count": 166
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "5 pm",
+        "count": 92
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "6 pm",
+        "count": 58
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "7 pm",
+        "count": 43
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "8 pm",
+        "count": 32
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "9 pm",
+        "count": 22
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "10 pm",
+        "count": 19
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "11 pm",
+        "count": 16
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "12 am",
+        "count": 10
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "1 am",
+        "count": 7
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "2 am",
+        "count": 8
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "3 am",
+        "count": 3
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "4 am",
+        "count": 8
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Thursday",
+        "hr": "5 am",
+        "count": 2
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "6 am",
+        "count": 2
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "7 am",
+        "count": 15
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "8 am",
+        "count": 80
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "9 am",
+        "count": 138
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "10 am",
+        "count": 159
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "11 am",
+        "count": 172
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "12 pm",
+        "count": 175
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "1 pm",
+        "count": 159
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "2 pm",
+        "count": 207
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "3 pm",
+        "count": 169
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "4 pm",
+        "count": 141
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "5 pm",
+        "count": 73
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "6 pm",
+        "count": 63
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "7 pm",
+        "count": 32
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "8 pm",
+        "count": 36
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "9 pm",
+        "count": 20
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "10 pm",
+        "count": 24
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "11 pm",
+        "count": 18
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "12 am",
+        "count": 11
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "1 am",
+        "count": 9
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "2 am",
+        "count": 7
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "3 am",
+        "count": 2
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "4 am",
+        "count": 3
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Friday",
+        "hr": "5 am",
+        "count": 3
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "6 am",
+        "count": 5
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "7 am",
+        "count": 4
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "8 am",
+        "count": 17
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "9 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "10 am",
+        "count": 35
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "11 am",
+        "count": 42
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "12 pm",
+        "count": 39
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "1 pm",
+        "count": 38
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "2 pm",
+        "count": 31
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "3 pm",
+        "count": 37
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "4 pm",
+        "count": 37
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "5 pm",
+        "count": 29
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "6 pm",
+        "count": 30
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "7 pm",
+        "count": 24
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "8 pm",
+        "count": 29
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "9 pm",
+        "count": 28
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "10 pm",
+        "count": 20
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "11 pm",
+        "count": 24
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "12 am",
+        "count": 14
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "1 am",
+        "count": 16
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "2 am",
+        "count": 11
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "3 am",
+        "count": 9
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "4 am",
+        "count": 12
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Saturday",
+        "hr": "5 am",
+        "count": 3
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "6 am",
+        "count": 6
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "7 am",
+        "count": 5
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "8 am",
+        "count": 7
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "9 am",
+        "count": 20
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "10 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "11 am",
+        "count": 20
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "12 pm",
+        "count": 21
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "1 pm",
+        "count": 25
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "2 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "3 pm",
+        "count": 29
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "4 pm",
+        "count": 19
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "5 pm",
+        "count": 23
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "6 pm",
+        "count": 19
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "7 pm",
+        "count": 20
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "8 pm",
+        "count": 24
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "9 pm",
+        "count": 15
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "10 pm",
+        "count": 13
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "11 pm",
+        "count": 14
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "12 am",
+        "count": 13
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "1 am",
+        "count": 17
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "2 am",
+        "count": 9
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "3 am",
+        "count": 6
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "4 am",
+        "count": 8
+    },
+    {
+        "complaint_category": "Drainage",
+        "dow": "Sunday",
+        "hr": "5 am",
+        "count": 4
+    }],
+    "Contamination": [
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "6 am",
+        "count": 75
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "7 am",
+        "count": 105
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "8 am",
+        "count": 131
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "9 am",
+        "count": 123
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "10 am",
+        "count": 72
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "11 am",
+        "count": 94
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "12 pm",
+        "count": 66
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "1 pm",
+        "count": 61
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "2 pm",
+        "count": 47
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "3 pm",
+        "count": 37
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "4 pm",
+        "count": 37
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "5 pm",
+        "count": 44
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "6 pm",
+        "count": 44
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "7 pm",
+        "count": 40
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "8 pm",
+        "count": 27
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "9 pm",
+        "count": 34
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "10 pm",
+        "count": 31
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "11 pm",
+        "count": 23
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "12 am",
+        "count": 25
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "1 am",
+        "count": 20
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "2 am",
+        "count": 26
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "3 am",
+        "count": 35
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "4 am",
+        "count": 24
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Monday",
+        "hr": "5 am",
+        "count": 27
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "6 am",
+        "count": 70
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "7 am",
+        "count": 115
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "8 am",
+        "count": 100
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "9 am",
+        "count": 91
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "10 am",
+        "count": 79
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "11 am",
+        "count": 69
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "12 pm",
+        "count": 75
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "1 pm",
+        "count": 56
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "2 pm",
+        "count": 56
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "3 pm",
+        "count": 47
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "4 pm",
+        "count": 50
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "5 pm",
+        "count": 35
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "6 pm",
+        "count": 44
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "7 pm",
+        "count": 27
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "8 pm",
+        "count": 22
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "9 pm",
+        "count": 27
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "10 pm",
+        "count": 24
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "11 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "12 am",
+        "count": 23
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "1 am",
+        "count": 20
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "2 am",
+        "count": 14
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "3 am",
+        "count": 23
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "4 am",
+        "count": 21
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Tuesday",
+        "hr": "5 am",
+        "count": 33
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "6 am",
+        "count": 60
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "7 am",
+        "count": 95
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "8 am",
+        "count": 98
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "9 am",
+        "count": 74
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "10 am",
+        "count": 68
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "11 am",
+        "count": 56
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "12 pm",
+        "count": 53
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "1 pm",
+        "count": 64
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "2 pm",
+        "count": 54
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "3 pm",
+        "count": 62
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "4 pm",
+        "count": 44
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "5 pm",
+        "count": 35
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "6 pm",
+        "count": 36
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "7 pm",
+        "count": 28
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "8 pm",
+        "count": 30
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "9 pm",
+        "count": 27
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "10 pm",
+        "count": 27
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "11 pm",
+        "count": 21
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "12 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "1 am",
+        "count": 30
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "2 am",
+        "count": 17
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "3 am",
+        "count": 18
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "4 am",
+        "count": 21
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Wednesday",
+        "hr": "5 am",
+        "count": 17
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "6 am",
+        "count": 76
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "7 am",
+        "count": 91
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "8 am",
+        "count": 85
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "9 am",
+        "count": 91
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "10 am",
+        "count": 80
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "11 am",
+        "count": 61
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "12 pm",
+        "count": 47
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "1 pm",
+        "count": 62
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "2 pm",
+        "count": 46
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "3 pm",
+        "count": 54
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "4 pm",
+        "count": 37
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "5 pm",
+        "count": 37
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "6 pm",
+        "count": 36
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "7 pm",
+        "count": 28
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "8 pm",
+        "count": 28
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "9 pm",
+        "count": 16
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "10 pm",
+        "count": 23
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "11 pm",
+        "count": 24
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "12 am",
+        "count": 28
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "1 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "2 am",
+        "count": 15
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "3 am",
+        "count": 18
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "4 am",
+        "count": 20
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Thursday",
+        "hr": "5 am",
+        "count": 35
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "6 am",
+        "count": 53
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "7 am",
+        "count": 95
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "8 am",
+        "count": 88
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "9 am",
+        "count": 99
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "10 am",
+        "count": 79
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "11 am",
+        "count": 56
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "12 pm",
+        "count": 55
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "1 pm",
+        "count": 68
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "2 pm",
+        "count": 58
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "3 pm",
+        "count": 59
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "4 pm",
+        "count": 30
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "5 pm",
+        "count": 35
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "6 pm",
+        "count": 32
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "7 pm",
+        "count": 25
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "8 pm",
+        "count": 25
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "9 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "10 pm",
+        "count": 31
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "11 pm",
+        "count": 41
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "12 am",
+        "count": 24
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "1 am",
+        "count": 28
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "2 am",
+        "count": 24
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "3 am",
+        "count": 25
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "4 am",
+        "count": 27
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Friday",
+        "hr": "5 am",
+        "count": 44
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "6 am",
+        "count": 43
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "7 am",
+        "count": 58
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "8 am",
+        "count": 85
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "9 am",
+        "count": 80
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "10 am",
+        "count": 68
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "11 am",
+        "count": 64
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "12 pm",
+        "count": 55
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "1 pm",
+        "count": 48
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "2 pm",
+        "count": 38
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "3 pm",
+        "count": 39
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "4 pm",
+        "count": 31
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "5 pm",
+        "count": 30
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "6 pm",
+        "count": 32
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "7 pm",
+        "count": 28
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "8 pm",
+        "count": 33
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "9 pm",
+        "count": 38
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "10 pm",
+        "count": 42
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "11 pm",
+        "count": 30
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "12 am",
+        "count": 24
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "1 am",
+        "count": 35
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "2 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "3 am",
+        "count": 35
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "4 am",
+        "count": 26
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Saturday",
+        "hr": "5 am",
+        "count": 20
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "6 am",
+        "count": 36
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "7 am",
+        "count": 44
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "8 am",
+        "count": 57
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "9 am",
+        "count": 66
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "10 am",
+        "count": 84
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "11 am",
+        "count": 72
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "12 pm",
+        "count": 66
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "1 pm",
+        "count": 51
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "2 pm",
+        "count": 34
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "3 pm",
+        "count": 34
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "4 pm",
+        "count": 37
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "5 pm",
+        "count": 31
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "6 pm",
+        "count": 40
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "7 pm",
+        "count": 44
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "8 pm",
+        "count": 28
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "9 pm",
+        "count": 31
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "10 pm",
+        "count": 35
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "11 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "12 am",
+        "count": 37
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "1 am",
+        "count": 34
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "2 am",
+        "count": 30
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "3 am",
+        "count": 28
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "4 am",
+        "count": 29
+    },
+    {
+        "complaint_category": "Contamination",
+        "dow": "Sunday",
+        "hr": "5 am",
+        "count": 20
+    }],
+    "Faulty Meter": [
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "6 am",
+        "count": 21
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "7 am",
+        "count": 10
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "8 am",
+        "count": 13
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "9 am",
+        "count": 16
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "10 am",
+        "count": 23
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "11 am",
+        "count": 32
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "12 pm",
+        "count": 37
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "1 pm",
+        "count": 32
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "2 pm",
+        "count": 31
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "3 pm",
+        "count": 24
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "4 pm",
+        "count": 27
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "5 pm",
+        "count": 30
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "6 pm",
+        "count": 16
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "7 pm",
+        "count": 33
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "8 pm",
+        "count": 50
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "9 pm",
+        "count": 54
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "10 pm",
+        "count": 46
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "11 pm",
+        "count": 42
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "12 am",
+        "count": 41
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "1 am",
+        "count": 44
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "2 am",
+        "count": 21
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "3 am",
+        "count": 28
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "4 am",
+        "count": 19
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Monday",
+        "hr": "5 am",
+        "count": 20
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "6 am",
+        "count": 15
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "7 am",
+        "count": 10
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "8 am",
+        "count": 16
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "9 am",
+        "count": 17
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "10 am",
+        "count": 17
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "11 am",
+        "count": 18
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "12 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "1 pm",
+        "count": 22
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "2 pm",
+        "count": 34
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "3 pm",
+        "count": 29
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "4 pm",
+        "count": 25
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "5 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "6 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "7 pm",
+        "count": 33
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "8 pm",
+        "count": 24
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "9 pm",
+        "count": 38
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "10 pm",
+        "count": 41
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "11 pm",
+        "count": 31
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "12 am",
+        "count": 33
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "1 am",
+        "count": 35
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "2 am",
+        "count": 29
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "3 am",
+        "count": 18
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "4 am",
+        "count": 11
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Tuesday",
+        "hr": "5 am",
+        "count": 12
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "6 am",
+        "count": 11
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "7 am",
+        "count": 6
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "8 am",
+        "count": 14
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "9 am",
+        "count": 11
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "10 am",
+        "count": 21
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "11 am",
+        "count": 20
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "12 pm",
+        "count": 22
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "1 pm",
+        "count": 29
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "2 pm",
+        "count": 19
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "3 pm",
+        "count": 28
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "4 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "5 pm",
+        "count": 19
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "6 pm",
+        "count": 23
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "7 pm",
+        "count": 33
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "8 pm",
+        "count": 38
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "9 pm",
+        "count": 48
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "10 pm",
+        "count": 42
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "11 pm",
+        "count": 48
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "12 am",
+        "count": 35
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "1 am",
+        "count": 32
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "2 am",
+        "count": 36
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "3 am",
+        "count": 26
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "4 am",
+        "count": 9
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Wednesday",
+        "hr": "5 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "6 am",
+        "count": 10
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "7 am",
+        "count": 10
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "8 am",
+        "count": 15
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "9 am",
+        "count": 23
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "10 am",
+        "count": 23
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "11 am",
+        "count": 19
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "12 pm",
+        "count": 23
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "1 pm",
+        "count": 30
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "2 pm",
+        "count": 17
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "3 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "4 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "5 pm",
+        "count": 21
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "6 pm",
+        "count": 31
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "7 pm",
+        "count": 28
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "8 pm",
+        "count": 42
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "9 pm",
+        "count": 48
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "10 pm",
+        "count": 54
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "11 pm",
+        "count": 27
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "12 am",
+        "count": 35
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "1 am",
+        "count": 43
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "2 am",
+        "count": 30
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "3 am",
+        "count": 28
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "4 am",
+        "count": 14
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Thursday",
+        "hr": "5 am",
+        "count": 18
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "6 am",
+        "count": 15
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "7 am",
+        "count": 15
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "8 am",
+        "count": 6
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "9 am",
+        "count": 16
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "10 am",
+        "count": 21
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "11 am",
+        "count": 25
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "12 pm",
+        "count": 20
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "1 pm",
+        "count": 21
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "2 pm",
+        "count": 21
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "3 pm",
+        "count": 27
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "4 pm",
+        "count": 28
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "5 pm",
+        "count": 28
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "6 pm",
+        "count": 33
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "7 pm",
+        "count": 40
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "8 pm",
+        "count": 42
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "9 pm",
+        "count": 45
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "10 pm",
+        "count": 39
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "11 pm",
+        "count": 47
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "12 am",
+        "count": 31
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "1 am",
+        "count": 34
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "2 am",
+        "count": 34
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "3 am",
+        "count": 36
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "4 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Friday",
+        "hr": "5 am",
+        "count": 8
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "6 am",
+        "count": 22
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "7 am",
+        "count": 20
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "8 am",
+        "count": 6
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "9 am",
+        "count": 23
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "10 am",
+        "count": 12
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "11 am",
+        "count": 16
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "12 pm",
+        "count": 16
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "1 pm",
+        "count": 19
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "2 pm",
+        "count": 20
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "3 pm",
+        "count": 17
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "4 pm",
+        "count": 20
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "5 pm",
+        "count": 28
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "6 pm",
+        "count": 33
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "7 pm",
+        "count": 40
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "8 pm",
+        "count": 37
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "9 pm",
+        "count": 44
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "10 pm",
+        "count": 45
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "11 pm",
+        "count": 41
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "12 am",
+        "count": 48
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "1 am",
+        "count": 46
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "2 am",
+        "count": 60
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "3 am",
+        "count": 43
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "4 am",
+        "count": 34
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Saturday",
+        "hr": "5 am",
+        "count": 29
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "6 am",
+        "count": 16
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "7 am",
+        "count": 16
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "8 am",
+        "count": 13
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "9 am",
+        "count": 21
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "10 am",
+        "count": 10
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "11 am",
+        "count": 14
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "12 pm",
+        "count": 21
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "1 pm",
+        "count": 32
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "2 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "3 pm",
+        "count": 12
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "4 pm",
+        "count": 19
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "5 pm",
+        "count": 26
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "6 pm",
+        "count": 23
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "7 pm",
+        "count": 33
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "8 pm",
+        "count": 58
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "9 pm",
+        "count": 36
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "10 pm",
+        "count": 52
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "11 pm",
+        "count": 41
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "12 am",
+        "count": 54
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "1 am",
+        "count": 40
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "2 am",
+        "count": 37
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "3 am",
+        "count": 42
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "4 am",
+        "count": 32
+    },
+    {
+        "complaint_category": "Faulty Meter",
+        "dow": "Sunday",
+        "hr": "5 am",
+        "count": 22
+    }]
+}
